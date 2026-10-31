@@ -13,17 +13,17 @@
 
 | 编号 | 课程 | English Name | 先修（本科对应课程） |
 | --- | --- | --- | --- |
-| 01 | [测度论与实分析](01-测度论与实分析.md) | Measure Theory & Real Analysis | 数学分析、实变函数、点集拓扑 |
-| 02 | [泛函分析](02-泛函分析.md) | Functional Analysis | 实变函数、本科线性代数、点集拓扑 |
-| 03 | [偏微分方程](03-偏微分方程.md) | Partial Differential Equations | 数学分析、测度论、泛函分析 |
-| 04 | [微分流形与黎曼几何](04-微分流形与黎曼几何.md) | Riemannian Geometry | 数学分析、多元微积分、点集拓扑 |
-| 05 | [代数拓扑](05-代数拓扑.md) | Algebraic Topology | 点集拓扑、抽象代数（同调论入门） |
-| 06 | [交换代数与同调代数](06-交换代数与同调代数.md) | Commutative & Homological Algebra | 本科抽象代数（群环模）、线性代数 |
-| 07 | [代数数论](07-代数数论.md) | Algebraic Number Theory | 本科抽象代数、初等数论 |
-| 08 | [群表示论](08-群表示论.md) | Representation Theory | 本科抽象代数、线性代数 |
-| 09 | [随机分析与马尔可夫过程](09-随机分析与马尔可夫过程.md) | Stochastic Analysis & Markov Processes | 概率论、测度论、实变函数 |
-| 10 | [凸优化与最优控制](10-凸优化与最优控制.md) | Convex Optimization & Optimal Control | 数学分析、线性代数、概率论（随机控制部分） |
-| 11 | [数理逻辑与模型论](11-数理逻辑与模型论.md) | Mathematical Logic & Model Theory | 本科集合论/离散数学、抽象代数（模型论部分） |
+| 01 | [测度论与实分析](03-硕博/测度论与实分析measure_theory_and_real_analysis/01-测度论与实分析.md) | Measure Theory & Real Analysis | 数学分析、实变函数、点集拓扑 |
+| 02 | [泛函分析](03-硕博/泛函分析functional_analysis/02-泛函分析.md) | Functional Analysis | 实变函数、本科线性代数、点集拓扑 |
+| 03 | [偏微分方程](03-硕博/偏微分方程partial_differential_equations/03-偏微分方程.md) | Partial Differential Equations | 数学分析、测度论、泛函分析 |
+| 04 | [微分流形与黎曼几何](03-硕博/微分流形与黎曼几何riemannian_geometry/04-微分流形与黎曼几何.md) | Riemannian Geometry | 数学分析、多元微积分、点集拓扑 |
+| 05 | [代数拓扑](03-硕博/代数拓扑algebraic_topology/05-代数拓扑.md) | Algebraic Topology | 点集拓扑、抽象代数（同调论入门） |
+| 06 | [交换代数与同调代数](03-硕博/交换代数与同调代数commutative_and_homological_algebra/06-交换代数与同调代数.md) | Commutative & Homological Algebra | 本科抽象代数（群环模）、线性代数 |
+| 07 | [代数数论](03-硕博/代数数论algebraic_number_theory/07-代数数论.md) | Algebraic Number Theory | 本科抽象代数、初等数论 |
+| 08 | [群表示论](03-硕博/群表示论representation_theory/08-群表示论.md) | Representation Theory | 本科抽象代数、线性代数 |
+| 09 | [随机分析与马尔可夫过程](03-硕博/随机分析与马尔可夫过程stochastic_analysis_and_markov_processes/09-随机分析与马尔可夫过程.md) | Stochastic Analysis & Markov Processes | 概率论、测度论、实变函数 |
+| 10 | [凸优化与最优控制](03-硕博/凸优化与最优控制convex_optimization_and_optimal_control/10-凸优化与最优控制.md) | Convex Optimization & Optimal Control | 数学分析、线性代数、概率论（随机控制部分） |
+| 11 | [数理逻辑与模型论](03-硕博/数理逻辑与模型论mathematical_logic_and_model_theory/11-数理逻辑与模型论.md) | Mathematical Logic & Model Theory | 本科集合论/离散数学、抽象代数（模型论部分） |
 
 ## papers/ 目录说明
 
